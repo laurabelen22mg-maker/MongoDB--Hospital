@@ -1,4 +1,4 @@
-# Consultas 
+# Queries
 ---
 
 ## 1. Todos os dados e valor médio das consultas do ano de 2020 sob convênio
